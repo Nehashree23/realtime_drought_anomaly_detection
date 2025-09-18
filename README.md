@@ -110,4 +110,4 @@ TO_EMAIL=recipient_email@gmail.com
 
 ---
 
-👩‍💻 Developed by **\[Your Name]** – Hackathon 2025 Submission
+👩‍💻 Developed by **Neha Shree** 
